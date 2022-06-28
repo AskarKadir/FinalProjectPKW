@@ -1,0 +1,11 @@
+for html :
+untuk menambahkan gambar : https://www.w3schools.com/html/html_images.asp
+untuk menambahkan vidio  : https://www.w3schools.com/html/html5_video.asp
+
+for css :
+back to top button : https://www.youtube.com/watch?v=SJVCvnKM_lI
+hovering image     : https://www.w3schools.com/csSref/sel_hover.asp
+
+javascript :
+back to top button : https://www.youtube.com/watch?v=SJVCvnKM_lI
+autoslider image   : https://dev.to/code_mystery/automatic-image-slider-using-html-css-javascript-nf8
